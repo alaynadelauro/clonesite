@@ -1,0 +1,19 @@
+header{
+    background:orange;
+}
+main{
+    background:blue;
+    justify-content:space-evenly;
+}
+footer{
+    background:white;
+}
+.button{
+    background-color: blue;
+    border-color:blue;
+    color:white;
+    border-radius: 20px;
+}
+.blob{
+    background-color:black;
+}
