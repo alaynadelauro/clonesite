@@ -1,19 +1,24 @@
 header{
-    background:orange;
+    background:rgb(233, 144, 12);
 }
 main{
-    background:blue;
+    background:rgb(98, 172, 232);
     justify-content:space-evenly;
 }
 footer{
     background:white;
 }
 .button{
-    background-color: blue;
-    border-color:blue;
+    background-color: rgb(94, 94, 226);
+    border-color:rgb(94,94,226);
     color:white;
     border-radius: 20px;
 }
 .blob{
     background-color:black;
+    border-color:black;
+}
+.pen{
+    border-radius: 30px;
+    border-color: rgb(253, 188, 90);
 }
